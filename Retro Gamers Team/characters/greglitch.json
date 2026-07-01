@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-18
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-50,
+				-18
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-50,
+				-18
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-18
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "greglitch idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "greglitch left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "greglitch down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-28
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "greglitch up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "greglitch right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/greglitch",
+	"position": [
+		-10,
+		90
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-20,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}
